@@ -4,3 +4,9 @@
 /Build/
 /Logs/
 *.user
+/Library/
+/Temp/
+/obj/
+/Build/
+/Logs/
+*.user
