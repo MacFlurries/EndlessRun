@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour
 
         score = 0;
         UpdateScoreUI();
-        Time.timeScale = 1f; // Pastikan waktu berjalan saat start
+        Time.timeScale = 1f; 
     }
 
     public void AddScore()
